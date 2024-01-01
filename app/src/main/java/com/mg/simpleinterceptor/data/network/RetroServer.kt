@@ -1,4 +1,4 @@
-package com.mg.simpleinterceptor.network
+package com.mg.simpleinterceptor.data.network
 
 import com.mg.simpleinterceptor.utils.TokenInterceptor
 import okhttp3.OkHttpClient
